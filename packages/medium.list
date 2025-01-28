@@ -1,0 +1,49 @@
+# Android core
+com.android.cts.ctsshim
+com.android.cts.priv.ctsshim
+
+# Google apps
+com.google.android.as.oss
+com.google.android.cellbroadcastreceiver
+com.google.android.feedback
+
+# Samsung core
+com.aura.oobe.samsung
+com.osp.app.signin
+
+# Samsung apps (additional)
+com.samsung.android.alive.service
+com.samsung.android.allshare.service.mediashare
+com.samsung.android.allshare.service.fileshare
+com.samsung.android.app.galaxyfinder
+com.samsung.android.app.parentalcare
+com.samsung.android.app.sharelive
+com.samsung.android.app.taskedge
+com.samsung.android.app.updatecenter
+com.samsung.android.aware.service
+com.samsung.android.easysetup
+com.samsung.android.fmm
+com.samsung.android.homemode
+com.samsung.android.knox.kpecore
+com.samsung.android.mcfds
+com.samsung.android.privateshare
+com.samsung.android.service.stplatform
+com.samsung.android.setting.multisound
+com.samsung.android.singletake.service
+com.samsung.android.memorysaver
+com.samsung.sec.android.application.csc
+
+# Samsung language packs
+com.samsung.SMT
+com.samsung.SMT.lang_de_de_f00
+com.samsung.SMT.lang_en_gb_f00
+com.samsung.SMT.lang_en_us_l03
+com.samsung.SMT.lang_es_es_f00
+com.samsung.SMT.lang_fr_fr_f00
+com.samsung.SMT.lang_it_it_f00
+com.samsung.SMT.lang_ru_ru_f00
+
+# Additional SEC apps
+com.sec.android.app.billing
+com.sec.automation
+com.sec.mhs.smarttethering
