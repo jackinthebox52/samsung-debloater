@@ -6,7 +6,7 @@ Scripts to debloat and optimize Samsung Android devices.
 
 ## Requirements
 
-- Linux-based operating system
+- A bash-compatible shell
 - ADB (Android Debug Bridge) installed
 - USB debugging enabled on your device
 
